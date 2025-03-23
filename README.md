@@ -1,6 +1,9 @@
 # Lithium
 Lithium is a 3D rendering engine fully coded in Batch.
 
+## Deprecation
+This project has been dropped as i have made a whole new version from zero, "LithiumGL", an optimized and more powerfull rendering engine than this one! Should be released so far.
+
 ## How does it works
 It reads a model, makes the points and then connect the points using the Bresenham's algorithm to connect them in any octant. For the third dimension a weak perspective is rendered.
 
